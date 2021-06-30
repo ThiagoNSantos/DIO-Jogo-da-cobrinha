@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: cornsilk;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Staatliches', cursive;
+
+}
+
+.cv {
+    border: 1px solid white;
+    padding: 2px;
+    margin: auto;
+
+
+}
